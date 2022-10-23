@@ -63,6 +63,11 @@ body::after {
 #ofertas{
     /*background-color: #b5d3ea;*/
     background-color: #56709a;
+    padding-bottom: 12px;
+}
+
+#ofertastitle{
+    color: #DDDDDD;
 }
 
 .index-section{

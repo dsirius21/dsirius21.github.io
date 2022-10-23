@@ -9,12 +9,12 @@
 
 .nav-theme{
     /*background-color: #46925a; #8ab4f8*/
-    background-color: #56709a;
+    background-color: #b5d3ea;
 }
 
 .foot-theme{
-    /*background-color: #46925a; #8ab4f8*/
-    background-color: #56709a;
+    /*background-color: #46925a; #8ab4f8 #56709a*/
+    background-color: #b5d3ea;
 }
 
 header{
@@ -61,7 +61,8 @@ body::after {
 }
 
 #ofertas{
-    background-color: #b5d3ea;
+    /*background-color: #b5d3ea;*/
+    background-color: #56709a;
 }
 
 .index-section{

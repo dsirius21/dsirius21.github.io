@@ -1,0 +1,70 @@
+
+.main-container{
+    margin-top: 18px;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-bottom: 20px;
+    padding: 6px 6px 6px 6px;
+}
+
+.nav-theme{
+    /*background-color: #46925a; #8ab4f8*/
+    background-color: #56709a;
+}
+
+.foot-theme{
+    /*background-color: #46925a; #8ab4f8*/
+    background-color: #56709a;
+}
+
+header{
+    margin-bottom: 120px;
+}
+
+.imgcontainer{
+    height: 72px;
+    width: 183px;
+}
+
+.imgcontainer img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.container-ds{
+    margin-top: 8em;
+}
+
+body::after {
+    content: "";
+    /*background-image: url("../img/logos2.png");
+    background-color: #aef2f2;
+    background-repeat: repeat;
+    opacity: 0.2;*/
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+    height: 100vh;
+}
+
+.foot-pos{
+    padding-top: 15px; 
+    padding-bottom: 15px;
+}
+
+#productos{
+    background-color: #FFF;
+}
+
+#ofertas{
+    background-color: #b5d3ea;
+}
+
+.index-section{
+    padding-top: 12px;
+}
+

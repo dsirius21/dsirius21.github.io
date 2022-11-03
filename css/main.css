@@ -18,7 +18,7 @@
 }
 
 header{
-    margin-bottom: 120px;
+    margin-bottom: 75px;
 }
 
 .imgcontainer{
@@ -57,20 +57,32 @@ body::after {
 }
 
 #productos{
-    background-color: #FFF;
+    /*background-color: #FFF;*/
+    background-color: #56709a;
 }
 
 #ofertas{
     /*background-color: #b5d3ea;*/
-    background-color: #56709a;
+    background-color: #a4d895;
     padding-bottom: 12px;
 }
 
 #ofertastitle{
+    /*color: #DDDDDD;*/
+}
+
+#prodstitle{
     color: #DDDDDD;
 }
 
 .index-section{
     padding-top: 12px;
+}
+
+#banner{
+    background-image: url("../img/banner_lg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #b5d3ea;
 }
 
